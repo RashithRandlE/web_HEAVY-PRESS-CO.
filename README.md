@@ -29,7 +29,9 @@
 
 ## 🚀 Live Demo / Hosting
 
-This repository is hosted using **GitHub Pages**.
+🌐 **Live Website:** [https://rashithrandle.github.io/web_HEAVY-PRESS-CO./](https://rashithrandle.github.io/web_HEAVY-PRESS-CO./)
+
+This website is hosted live using **GitHub Pages**.
 
 ---
 
