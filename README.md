@@ -33,6 +33,10 @@ This repository is hosted using **GitHub Pages**.
 
 ---
 
-## 📜 License & Usage
+## 📜 License & Copyright Terms
 
-This repository is shared strictly for portfolio, educational, and conceptual design evaluation purposes.
+**© All Rights Reserved.**
+
+- 🚫 **No Commercial Use:** This project, code, design, and associated media assets (images, 3D models, textures) **MAY NOT** be used, redistributed, modified, or sold for commercial purposes.
+- 🎨 **Concept & Portfolio Only:** This repository is published strictly for personal portfolio presentation, educational review, and conceptual design evaluation.
+- ⚠️ If you would like to reference or use any part of this design or asset set, please contact the author for permission.
